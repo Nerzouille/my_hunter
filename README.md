@@ -56,5 +56,5 @@ my_hunter> ./my_hunter
 
 ## Authors
 
-- SMOTER Noa ([LinkeIn](https://www.github.com/nerzouille) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkedIn](https://www.linkedin.com/in/noa-smoter/) / [Portfolio](https://nerzouille.github.io/))
 
